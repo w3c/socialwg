@@ -2,13 +2,21 @@
 
 Administrivia repository
 
+See also the [Working Group homepage](https://www.w3.org/groups/wg/social/)
+
 ## Meetings
 
 Agendas are proposed as [agenda issues](https://github.com/w3c/socialwg/labels/agenda).
 
-## Meeting Information
+See also [Resources about W3C Meetings](https://www.w3.org/guide/meetings/)
 
-See [Group calendar](https://www.w3.org/groups/wg/social/calendar/)
+### Upcoming Meetings
+
+See [Social Web Working Group - Calendar](https://www.w3.org/groups/wg/social/calendar/)
+
+## Tools
+
+See [Social Web Working Group - Tools](https://www.w3.org/groups/wg/social/tools/)
 
 ## Chat
 
@@ -16,6 +24,7 @@ The Group uses @@.
 
 ## Participation
 
+* [Call for Participation](https://lists.w3.org/Archives/Public/public-socialweb/2026Jan/0000.html)
 * [Instructions for joining the Social Web Working Group](https://www.w3.org/groups/wg/social/instructions/)
 * [Invited Expert: Expectations and Criteria](invited-experts.md)
 
