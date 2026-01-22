@@ -2,7 +2,7 @@
 
 *Social Web Working Group*
 
-This document outlines the participation requirements and evaluation criteria for Invited Experts within the Social Web Working Group. Individuals may be invited by the Working Group Chairs in accordance with the [W3C Process for Invited Experts](https://www.w3.org/policies/process/#invited-expert-wg).
+This document outlines the participation requirements and evaluation criteria for Invited Experts within the Social Web Working Group. Individuals may be invited by the Working Group Chair(s) in accordance with the [W3C Process for Invited Experts](https://www.w3.org/policies/process/#invited-expert-wg).
 
 ## Expectations
 
