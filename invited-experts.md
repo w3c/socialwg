@@ -26,7 +26,7 @@ The Working Group Chairs and Team Contacts evaluate Invited Expert applications 
 
 * *Conduct:* Demonstrated ability to follow the [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/).
 
-* *Track Record:* Prior participation and contributions within the [Social Web Incubator Community Group (CG)](https://www.w3.org/groups/cg/socialcg/), and/or in the group’s public channels.
+* *Track Record:* One or more of the following (the more the better). Prior editors or authors of at least one of the Social Web WG Recommendations. Contributions to implementations of one or more Social Web WG Recommendations with an implementation report or other evidence of passing specification test cases. Positive participation and contributions within the [Social Web Incubator Community Group (CG)](https://www.w3.org/groups/cg/socialcg/), and/or in the group’s public channels is a plus.
 
 # Notes
 
