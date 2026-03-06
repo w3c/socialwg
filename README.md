@@ -20,7 +20,7 @@ See [Social Web Working Group - Tools](https://www.w3.org/groups/wg/social/tools
 
 ## Chat
 
-The Group uses @@.
+For now, the Working Group communicates via [the official W3C mailing list](https://lists.w3.org/Archives/Public/public-socialweb/), but are actively discussing realtime communication options such as IRC, Matrix, and other such channels.
 
 ## Participation
 
