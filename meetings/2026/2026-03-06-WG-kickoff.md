@@ -16,7 +16,6 @@ Charter: https://www.w3.org/2026/01/social-web-wg-charter.html
 * Aaron Parecki
 * Dmitri Zagidulin
 * Steve Blackmon
-* Andy Piper
 * David Roetzel, Mastodon
 * Eugen Rochko, Mastodon
 * Philippe Le Hegaret, W3C
