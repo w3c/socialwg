@@ -87,13 +87,13 @@ Darius: Yes - while we do love our open tech (jit.si), reducing barriers to part
 
 Along with meetings and email (which is a black hole for some people), I'd like to think about participation channels. Chat can be real-time and ad-hoc. The W3C Slack is my proposal. 
 
-Tantek: The W3C slack is fine for informal. My counter-proposal is to use #social IRC channel on the W3C IRC server.  We were able to use that successfully in the first WG iteration and we do have a continuous archive running the whole time. https://chat.indieweb.org/social 
+Tantek: The W3C Community Slack is fine for informal chats. My counter-proposal is to use #social IRC channel on the W3C IRC server.  We were able to use that successfully in the first Social Web WG iteration and we do have a continuous archive running the whole time. https://chat.indieweb.org/social 
 
 Darius: Is it bridged to Matrix?  TBD
 
-Sarven: History is lost in slack channels after some number of months. I presume we have our main work preserved in GitHub.
+Sarven: History is lost in Slack channels after some number of months. I presume we have our main work preserved in GitHub.
 
-Darius: Loss of history makes slack a non-starter IMO.  We'll look into the other options.
+Darius: Loss of history makes Slack a non-starter IMO.  We'll look into the other options.
 
 Dmitri: The other option is not to use chat at all. What do we traditionally use chat for?  Meetings, polls, minute transcriptions. Each one of those can be used for something else.   We also have to figure out transcription approaches, which is a pain point in many groups.  
 
@@ -155,9 +155,9 @@ Sarven: What are the gaps the group has? focus on filling gaps. E.g. if this gro
 
 Evan: It's important to extend invitations to the authors of AP and AS (names provided).  None have been very active lately, but important to extend invitation as a courtesy.  I suggest Abdullah T., goes by 'a', they/them; very detailed, focused reviewer of all of these specs. 
 
-Tantek: I like what's been proposed. Since our charter is focused on maintenance changes, some of the most important invited experts are implementors. They will have the best perspective on when to fix the spec to align with implementation, and when to fix implementations instead.  Manton Reece has implemented most of our specs.  
+Tantek: I like what's been proposed. Since our charter is focused on maintenance changes, some of the most important invited experts are implementors. They will have the best perspective on when to fix the spec to align with implementation, and when to fix implementations to align with the spec instead.  Manton Reece has implemented most of our specs, has applied to be an invited expert, and would be an excellent addition to the working group.
 
-Tantek: I also want to propose to reach out to Meta. They contributed to the earlier WG, they have Threads, they contributed to tests. 
+Tantek: I also want to propose we reach out to Meta. They contributed to the CG, they implemented Threads, they contributed to tests. 
 
 ## Any other business
 
