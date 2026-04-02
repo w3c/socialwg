@@ -1,7 +1,7 @@
 # Social Web WG, 2026-03-06
 
 * Chair: Darius Kazemi
-* Scribe: 
+* Scribe: Lisa Dusseault
 
 Call-in details: see https://www.w3.org/groups/wg/social/calendar/
 
