@@ -58,7 +58,8 @@ CG Charter: https://swicg.github.io/charters/SocialWebCG-Charter-2025-02.html
      * [Working Group Membership](https://www.w3.org/groups/wg/social/) and [Community Group Membership](https://www.w3.org/groups/cg/socialcg/)
      * [CG/WG incubation process](https://github.com/swicg/potential-charters/blob/main/stage-process.md)
      * [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/)
-* Welcome, and some words on joint WG/CG (Darius & Dmitri)
+
+### Welcome
   - A/B series reminder, new meeting cadence
     * joint meetings are to work together well
     * meetings at different time zones. A-series at 10am eastern, C-series later in the day, to enable broad participation
@@ -66,32 +67,33 @@ CG Charter: https://swicg.github.io/charters/SocialWebCG-Charter-2025-02.html
   - welcome Johannes as CG co-chair
     * last month were CG elections, Dmitri was only candidate
     * Johannes offered to co-chair after the election was over. Dmitri, as CG chair, can appoint co-chairs, and he appointed Johannes as co-chair.
-* Brief introductions as necessary
-* Task force updates (Dmitri)
-    * API (EP)
-      * Evan: had meeting last month, meeting note in repo: https://github.com/swicg/meetings/tree/main/2026-03-19-activitypub-api
-      * Auto-complete API endpoint
-      * Endpoint for seeking an item in a collection 
-    * E2EE (EP)
-      * Meeting minutes: https://github.com/swicg/meetings/tree/main/2026-03-31-e2ee 
-      * Evan: two great implementations in the works
-      * Interop testing next month
-    * Discovery (EP)
-      * Evan: draft document open for over a year, wants to get it closed. Meeting scheduled for later in April. 
-    * Groups (EP) 
-      * Evan: also meeting scheduled for later in April
-      * Mayel: we really care about implementing groups, closed groups, moderation, there are lots of issues in the repo, please participate
-          * https://github.com/swicg/groups
-    * Trust & Safety (ES)
-      * NLNet grant to support PRs closing open issues, filed in Nov: through first round
-      * open call for participation from platform/instance mods and codebase governers 
-    * Website (JE)
-      * activitypub.rocks needs a blog post announcing the Working Group, Darius will write something
-* WebSub (plh)
+### Introductions
+ * none
+### Task force updates (Dmitri)
+* API (EP)
+  * Evan: had meeting last month, meeting note in repo: https://github.com/swicg/meetings/tree/main/2026-03-19-activitypub-api
+  * Auto-complete API endpoint
+  * Endpoint for seeking an item in a collection 
+* E2EE (EP)
+  * Meeting minutes: https://github.com/swicg/meetings/tree/main/2026-03-31-e2ee 
+  * Evan: two great implementations in the works
+  * Interop testing next month
+* Discovery (EP)
+  * Evan: draft document open for over a year, wants to get it closed. Meeting scheduled for later in April. 
+* Groups (EP) 
+  * Evan: also meeting scheduled for later in April
+  * Mayel: we really care about implementing groups, closed groups, moderation, there are lots of issues in the repo, please participate
+      * https://github.com/swicg/groups
+* Trust & Safety (ES)
+  * NLNet grant to support PRs closing open issues, filed in Nov: through first round
+  * open call for participation from platform/instance mods and codebase governers 
+* Website (JE)
+  * activitypub.rocks needs a blog post announcing the Working Group, Darius will write something
+### WebSub (plh)
   * discussed off-record 
-* FedCM (Emelia)
+### FedCM (Emelia)
   * Emelia is working on a project that requires her to collaborate with everybody related to social software who is interested in FedCM, open to running calls
-* WG updates (Darius) 
+### WG updates (Darius) 
   * Adopting the SocialCG drafts: ActivityPub, ActivityStreams core, and Activity Vocabulary as WG editors' drafts. ([Stage 2](https://github.com/swicg/potential-charters/blob/main/stage-process.md#stage-2-formalization-community-group) of incubation process)
   * Considering formal hand-off from CG to WG so the documents can become formal documents
   - Proposal for moving forward on incremental document improvements (Evan)
@@ -136,6 +138,6 @@ CG Charter: https://swicg.github.io/charters/SocialWebCG-Charter-2025-02.html
   - Dmitri: sounds like there is no major disagreement to adopt the CG reports. We'll use the HTML diffs to give people another chance to review, and proceed with the process.
   - bumblefudge: e-mail out plh's diff
   - bumblefudge: we've never documented profiles or sub-communities. 
-* Any Other Business (AOB)
-    * Miscellany context (Evan)
-    * Security context (Evan)
+### Any Other Business (AOB)
+* Miscellany context (Evan)
+* Security context (Evan)
