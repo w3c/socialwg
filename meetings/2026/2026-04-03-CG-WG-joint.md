@@ -17,7 +17,7 @@ CG Charter: https://swicg.github.io/charters/SocialWebCG-Charter-2025-02.html
 * Ryan Barrett snarfed.org
 * @mayel@bonfire.cafe
 * bumblefudge.com
-* Christiano Longo
+* Cristiano Longo
 * Steve Blackmon
 * Andy Piper
 * Philippe Le Hegaret
