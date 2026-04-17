@@ -66,7 +66,7 @@ Johannes: Mastodon has gotten funding from the Sovereign Tech Fund, among others
 
 Evan: Claire from Mastodon has been in the meetings participating in the standardization process, but one of the questions that came up in their funding was making sure E2EE did not interfere with user safety on the Fediverse. E2EE should not be used to harass people on fedi or do it secretly in a way that mods can't see it. Want to provide trust and safety features like being able to report E2EE messages, non-repudiable; techniques for doing this with e2ee like message franking but need to consider this more holistically.
 
-Darius: Some concerns possibly?
+Darius: I'm concerned that an e2ee messaging system wtih a "report to third party" button undermines the point of e2ee in the first place.
 
 Evan: Yes we need to balance the expectations between privacy of e2ee vs safety of being able to report abuse.
 
