@@ -90,7 +90,7 @@ https://tinysubversions.com/temp/potential-wd-flow.pdf
 - Ryan: Curious about higher-level Q1 2027 work planning. What do you all think we should do? Where is the WG on a spectrum between "make changes and ship all at once" vs "make changes in smaller windows and ship every Friday (e.g.)"
 - Darius: Q1 can be spent iterating; attempting to hit Candidate Recommendation (CR) by end of Q1 will necessarily constrain what goes into the draft. Goal is still to push only for Class 1,2,3 and no 4 changes. Maybe a 1.2 document...?
 - Ryan: Goal is to get something out, not to do all the work? Just to have something to show other people?
-- Darius: Yeah, in addition we have other workstreams for e.g. combining AS2-Core and AS2-Vocab as we loosely committed to in other meetings. 
+- Darius: Yeah, in addition we have other workstreams for e.g. combining AS2-Core and AS2-Vocab as we loosely committed to in other meetings. (Edited to add: we actually made [a formal WG decision to combine AS2 and AS Vocab](https://lists.w3.org/Archives/Public/public-socialweb/2026Jun/0001.html).)
 - bumblefudge: do we need a test suite by CR?
 - Darius: We need it at the end of the CR process as we're moving into REC. Maybe end of Q2? ~6 month deadline let's say for the new WG Test Suite TF
 - Johannes: Categorize issues into blocking vs non-blocking? Just a thought... "These 5 things absolutely have to happen" vs "These can happen later". Also, I like the process but is there any way of speeding it up? It looks like PRs can take on the order of months, and do we have that many months?
