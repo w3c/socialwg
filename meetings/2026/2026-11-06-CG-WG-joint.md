@@ -97,11 +97,11 @@ https://tinysubversions.com/temp/potential-wd-flow.pdf
 - Darius: +1s are meant to fast-track changes, but we need to make sure there is a reasonable window for objections in all of these scenarios. Objections being resolved starts a 7-day timer for example. "longest" PR should take ~5 weeks from start to finish, but an uncontroversial Class 2 could be closed within 7 days and an uncontroversial Class 3 could be closed within 14 days. Our job is to be right (as possible), not to be fast (despite our sense of urgency). As Chair it is important to me to have a real sense of legitimacy with every change we make and a real chance for people to comment or object if necessary.
 
 PROPOSED: new publishing workflow, 
-https://tinysubversions.com/temp/potential-wd-flow
+https://tinysubversions.com/temp/potential-wd-flow.pdf
 
 Straw poll in chat: +1s from Jeremiah Lee, Johannes Ernst, David Roetzel, Chris Harrelson, bumblefudge, Matthias Pfefferle, Evan Prodromou, Ryan Barrett; no objections
 
-RESOLVED: new publishing workflow, https://tinysubversions.com/temp/potential-wd-flow
+RESOLVED: new publishing workflow, https://tinysubversions.com/temp/potential-wd-flow.pdf
 
 
 ### CG Chair elections
