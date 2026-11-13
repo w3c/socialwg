@@ -15,5 +15,5 @@ All proposed changes to a WD will be opened as a PR in the appropriate repo for 
 | 3, 4 | 14 days | 2 |
 
 4. **PR is merged** when the window ends with no unresolved objection and the required \+1s.  
-5. An objection from a WG member raised in the PR pauses the window**..** Once resolved, a fresh 7-day window starts, with the Class's usual approval count.  
+5. An objection from a WG member raised in the PR pauses the window. Once resolved, a fresh 7-day window starts, with the Class's usual approval count.  
 6. A **PR is closed** as "no resolution" if the 4-week timer runs out with an unresolved objection or too few approvals. (If a 7-day timer post-resolution is still going at this point, we extend the 4-week deadline to accommodate that timer and merge at the end of the window assuming no new objections.)
